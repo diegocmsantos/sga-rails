@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Sga</title>
+  <%= stylesheet_link_tag    "application", :media => "all" %>
+  <%= stylesheet_link_tag    "application", '/extjs-4.1.1/resources/css/ext-all' %>
+  <%= javascript_include_tag "application", '/extjs-4.1.1/ext-all-debug', '/app/app' %>
+  <%= csrf_meta_tags %>
+</head>
+<body>
+
+<%= yield %>
+
+</body>
+</html>

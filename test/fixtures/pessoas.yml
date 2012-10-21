@@ -1,0 +1,29 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  razao_social: MyString
+  cnpf: MyString
+  is_juridica: false
+  nome_fantasia: MyString
+  email: MyString
+  insc_municipal: MyString
+  insc_estadual: MyString
+  sexo: MyString
+  rg: MyString
+  nascimento: 2012-09-20
+  obs: MyString
+  empresa_id: 
+
+two:
+  razao_social: MyString
+  cnpf: MyString
+  is_juridica: false
+  nome_fantasia: MyString
+  email: MyString
+  insc_municipal: MyString
+  insc_estadual: MyString
+  sexo: MyString
+  rg: MyString
+  nascimento: 2012-09-20
+  obs: MyString
+  empresa_id: 
